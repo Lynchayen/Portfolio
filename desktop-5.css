@@ -1,0 +1,512 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-5-3Zq {
+  box-sizing: border-box;
+  padding: 8rem 10.9rem 73.5rem 6rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(0, 71, 255, 0.2800000012);
+}
+.desktop-5-3Zq .group-1-Q31 {
+  margin: 0rem 0rem 4.4rem 48.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-5-3Zq .group-1-Q31 .home-3VH {
+  margin-right: 7.1rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 2.5775;
+  color: #ff0000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-3Zq .group-1-Q31 .about-me-irK {
+  margin-right: 6.8rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-3Zq .group-1-Q31 .works-3tb {
+  margin-right: 9.2rem;
+  cursor: pointer;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-3Zq .group-1-Q31 .contacts-MuH {
+  cursor: pointer;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-3Zq .auto-group-88es-B7d {
+  margin: 0rem 10.2rem 23.4rem 0rem;
+  width: calc(100% - 10.2rem);
+  height: 62.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-5-3Zq .auto-group-88es-B7d .auto-group-l1tm-HRZ {
+  margin: 5.1rem 31.1rem 1.8rem 0rem;
+  height: calc(100% - 6.9rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-5-3Zq .auto-group-88es-B7d .auto-group-l1tm-HRZ .hello-i-am-afZ {
+  margin: 0rem 7.3rem 2.8rem 0rem;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Irish Grover, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-3Zq .auto-group-88es-B7d .auto-group-l1tm-HRZ .hello-i-am-W3R {
+  margin: 0rem 0.4rem 17.7rem 0rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-5-3Zq .auto-group-88es-B7d .auto-group-l1tm-HRZ .hello-i-am-W3R .lynch-ayen-m-pantinople-ddq {
+  margin-bottom: 3.5rem;
+  max-width: 34.5rem;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #ff0000;
+  font-family: Irish Grover, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-5-3Zq .auto-group-88es-B7d .auto-group-l1tm-HRZ .hello-i-am-W3R .bsit-3b-Lo9 {
+  margin-right: 5.7rem;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Irish Grover, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-3Zq .auto-group-88es-B7d .auto-group-l1tm-HRZ .group-8-4UF {
+  margin-left: 3.8rem;
+  width: 31.1rem;
+  height: 7.2rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.desktop-5-3Zq .auto-group-88es-B7d .auto-group-l1tm-HRZ .group-8-4UF .group-8-default-zco {
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+}
+.desktop-5-3Zq .auto-group-88es-B7d .auto-group-l1tm-HRZ .group-8-4UF .group-8-default-zco .group-4-krs {
+  width: 100%;
+  height: 100%;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.44;
+  color: #000000;
+  font-family: Istok Web, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff0000;
+  border-radius: 1.5rem;
+}
+.desktop-5-3Zq .auto-group-88es-B7d .received636500015166226-1-MEP {
+  width: 50.9rem;
+  height: 62.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-5-3Zq .group-8-G6T {
+  margin: 0rem 0rem 4rem 54.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-5-3Zq .group-8-G6T .home-zYF {
+  margin-right: 5.6rem;
+  cursor: pointer;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-3Zq .group-8-G6T .about-me-WmV {
+  margin-right: 9.4rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 2.5775;
+  color: #ff0000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-3Zq .group-8-G6T .works-TRq {
+  margin-right: 12.4rem;
+  cursor: pointer;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-3Zq .group-8-G6T .contacts-b2F {
+  cursor: pointer;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-3Zq .auto-group-erco-isZ {
+  margin: 0rem 3.6rem 19.2rem 10.3rem;
+  width: calc(100% - 13.9rem);
+  height: 81.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-5-3Zq .auto-group-erco-isZ .n-removebg-preview-2-qSP {
+  margin: 5.8rem 1.2rem 0rem 0rem;
+  width: 24.6rem;
+  height: 75.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-5-3Zq .auto-group-erco-isZ .group-8-Y5u {
+  margin: 25.367rem 5.1rem 45.9rem 0rem;
+  height: calc(100% - 71.2669rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-5-3Zq .auto-group-erco-isZ .group-8-Y5u .group-6-eud {
+  margin: 0rem 0rem 0.2rem 0.4rem;
+  width: 42.2rem;
+  height: 3.3331rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-5-3Zq .auto-group-erco-isZ .group-8-Y5u .group-6-eud .group-5-ywu {
+  width: 42.2rem;
+  height: 3.1331rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+}
+.desktop-5-3Zq .auto-group-erco-isZ .group-8-Y5u .group-6-eud .group-5-ywu .you-can-call-me-uKm {
+  margin: 0.033rem 1.2rem 0rem 0rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #ffffff;
+  font-family: Irish Grover, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-3Zq .auto-group-erco-isZ .group-8-Y5u .group-6-eud .group-5-ywu .lynch-QnK {
+  margin: 0rem 9.5rem 0.033rem 0rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #ff0000;
+  font-family: Irish Grover, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-3Zq .auto-group-erco-isZ .group-8-Y5u .group-6-eud .group-5-ywu .lynch-8iK {
+  margin-bottom: 0.0331rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #ff0000;
+  font-family: Irish Grover, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-3Zq .auto-group-erco-isZ .group-8-Y5u .group-6-eud .or-Tkb {
+  width: 3.4rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 28.9rem;
+  top: 0.2331rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #ffffff;
+  font-family: Irish Grover, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-5-3Zq .auto-group-erco-isZ .group-8-Y5u .auto-group-d8qd-Mb5 {
+  margin-bottom: 0.6rem;
+  width: 33.9rem;
+  height: 3.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-5-3Zq .auto-group-erco-isZ .group-8-Y5u .auto-group-d8qd-Mb5 .and-im-a-student-from-VhH {
+  width: 33.9rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #ffffff;
+  font-family: Irish Grover, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-5-3Zq .auto-group-erco-isZ .group-8-Y5u .auto-group-d8qd-Mb5 .bsit-ze3 {
+  width: 5.3rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 11.9rem;
+  top: 0;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #ff0000;
+  font-family: Irish Grover, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-5-3Zq .auto-group-erco-isZ .group-8-Y5u .dalubhasaan-ng-lungsod-ng-lucena-i4F {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #ff0000;
+  font-family: Irish Grover, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-3Zq .auto-group-erco-isZ .i-enjoy-taking-complex-problem-and-turning-them-into-simple-and-beautiful-design-and-i-also-love-the-logic-and-structure-of-coding-and-always-strive-to-write-elegant-and-efficient-code-when-im-not-coding-you-will-find-me-at-the-gym-or-on-basketball-court-qef {
+  max-width: 35.9rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #ff0000;
+  font-family: Itim, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-5-3Zq .auto-group-xnuf-rpf {
+  margin: 0rem 0rem 5.9rem 5.4rem;
+  width: calc(100% - 5.4rem);
+  height: 43.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-5-3Zq .auto-group-xnuf-rpf .rectangle-6-Bc3 {
+  margin-bottom: 1.3rem;
+  width: 51.3rem;
+  height: 33.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-5-3Zq .auto-group-xnuf-rpf .auto-group-l6fz-KCT {
+  width: 70.4rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-5-3Zq .auto-group-xnuf-rpf .auto-group-l6fz-KCT .group-2-T3m {
+  width: 70.4rem;
+  height: 6.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+}
+.desktop-5-3Zq .auto-group-xnuf-rpf .auto-group-l6fz-KCT .group-2-T3m .home-Py1 {
+  margin-right: 5.6rem;
+  cursor: pointer;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-3Zq .auto-group-xnuf-rpf .auto-group-l6fz-KCT .group-2-T3m .about-me-XZR {
+  margin-right: 9.4rem;
+  cursor: pointer;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-3Zq .auto-group-xnuf-rpf .auto-group-l6fz-KCT .group-2-T3m .works-G1D {
+  margin-right: 12.4rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 2.5775;
+  color: #ff0000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-3Zq .auto-group-xnuf-rpf .auto-group-l6fz-KCT .group-2-T3m .contacts-oG3 {
+  cursor: pointer;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-3Zq .auto-group-xnuf-rpf .auto-group-l6fz-KCT .rectangle-9-M2f {
+  width: 51.3rem;
+  height: 33.9rem;
+  position: absolute;
+  left: 18.5rem;
+  top: 4.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-5-3Zq .auto-group-xnuf-rpf .auto-group-l6fz-KCT .works-HBD {
+  width: 18rem;
+  height: 10.4rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 33.2rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 2.5775;
+  color: #ff0000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-5-3Zq .auto-group-gf6p-zLX {
+  margin: 0rem 0.6rem 19.5rem 5.4rem;
+  width: calc(100% - 6rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-5-3Zq .auto-group-gf6p-zLX .rectangle-7-Ktb {
+  margin-right: 18.5rem;
+  width: 51.3rem;
+  height: 33.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-5-3Zq .auto-group-gf6p-zLX .rectangle-8-575 {
+  width: 51.3rem;
+  height: 33.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-5-3Zq .group-9-paT {
+  margin-left: 48.3rem;
+  box-sizing: border-box;
+  padding-right: 2.4rem;
+  height: 17.2rem;
+  cursor: pointer;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop-5-3Zq .group-9-paT .home-xAs {
+  margin-right: 5.6rem;
+  cursor: pointer;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-3Zq .group-9-paT .about-me-t4X {
+  margin-right: 9.4rem;
+  cursor: pointer;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-3Zq .group-9-paT .works-pym {
+  margin-right: 12.4rem;
+  cursor: pointer;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-3Zq .group-9-paT .contacts-YPy {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 2.5775;
+  color: #ff0000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
