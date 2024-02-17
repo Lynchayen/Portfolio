@@ -1,0 +1,551 @@
+.layer,
+.layer * {
+  box-sizing: border-box;
+}
+.layer {
+  height: 3281px;
+  position: relative;
+}
+.home {
+  color: #ff0000;
+  text-align: left;
+  font-family: "InknutAntiqua-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  right: 49.76%;
+  left: 41.38%;
+  width: 8.86%;
+  bottom: 97.14%;
+  top: 0%;
+  height: 2.86%;
+}
+.works {
+  color: #000000;
+  text-align: left;
+  font-family: "InknutAntiqua-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  right: 19.36%;
+  left: 69.36%;
+  width: 11.29%;
+  bottom: 97.84%;
+  top: 0%;
+  height: 2.16%;
+}
+.contacts {
+  color: #000000;
+  text-align: left;
+  font-family: "InknutAntiqua-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  right: 2.74%;
+  left: 83.54%;
+  width: 13.71%;
+  bottom: 97.84%;
+  top: 0%;
+  height: 2.16%;
+}
+.h-ello-i-am {
+  position: absolute;
+  right: 88.4%;
+  left: 0%;
+  width: 11.6%;
+  bottom: 95.52%;
+  top: 2.16%;
+  height: 2.32%;
+}
+.bsit-3-b {
+  color: #000000;
+  text-align: left;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 50px;
+  font-weight: 400;
+  position: absolute;
+  right: -122.97%;
+  left: 21.62%;
+  width: 201.35%;
+  bottom: -439.47%;
+  top: 439.47%;
+  height: 100%;
+}
+.lynch-ayen-m-pantinople {
+  color: #ff0000;
+  text-align: left;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 50px;
+  font-weight: 400;
+  position: absolute;
+  right: -122.97%;
+  left: -12.84%;
+  width: 235.81%;
+  bottom: -301.32%;
+  top: 234.21%;
+  height: 167.11%;
+}
+.i-enjoy-taking-complex-problem-and-turning-them-into-simple-and-beautiful-design-and-i-also-love-the-logic-and-structure-of-coding-and-always-strive-to-write-elegant-and-efficient-code-when-i-m-not-coding-you-will-find-me-at-the-gym-or-on-basketball-court {
+  color: #ff0000;
+  text-align: left;
+  font-family: "Itim-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  right: 4.7%;
+  left: 67.16%;
+  width: 28.13%;
+  bottom: 62.08%;
+  top: 32.67%;
+  height: 5.24%;
+}
+.about-me {
+  color: #ff0000;
+  text-align: left;
+  font-family: "InknutAntiqua-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  right: 35.58%;
+  left: 53.06%;
+  width: 11.36%;
+  bottom: 65.28%;
+  top: 29.47%;
+  height: 5.24%;
+}
+.works2 {
+  color: #000000;
+  text-align: left;
+  font-family: "InknutAntiqua-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  right: 18.26%;
+  left: 71%;
+  width: 10.74%;
+  bottom: 68.3%;
+  top: 29.47%;
+  height: 2.22%;
+}
+.contacts2 {
+  color: #000000;
+  text-align: left;
+  font-family: "InknutAntiqua-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  right: 0.78%;
+  left: 87.7%;
+  width: 11.52%;
+  bottom: 65.41%;
+  top: 29.47%;
+  height: 5.12%;
+}
+._428047755-831843972081300-8935203897131944546-n-removebg-preview-2 {
+  position: absolute;
+  right: 74.14%;
+  left: 6.58%;
+  width: 19.28%;
+  bottom: 42.46%;
+  top: 34.44%;
+  height: 23.1%;
+}
+._428047755-831843972081300-8935203897131944546-n-removebg-preview-22 {
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+  object-fit: cover;
+}
+.i-am {
+  position: absolute;
+  right: 54.55%;
+  left: 42.01%;
+  width: 3.45%;
+  bottom: 58.79%;
+  top: 40.41%;
+  height: 0.79%;
+}
+.lynch {
+  color: #ff0000;
+  text-align: left;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  right: -86.31%;
+  left: 0%;
+  width: 186.31%;
+  bottom: -75.82%;
+  top: 1.47%;
+  height: 174.35%;
+  transform-origin: 0 0;
+  transform: rotate(-0.033deg) scale(1, 1);
+}
+.i-am2 {
+  position: absolute;
+  right: 40.99%;
+  left: 55.56%;
+  width: 3.45%;
+  bottom: 58.79%;
+  top: 40.41%;
+  height: 0.79%;
+}
+.you-can-call-me {
+  color: #ffffff;
+  text-align: left;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  right: 57.99%;
+  left: 27.12%;
+  width: 14.89%;
+  bottom: 57.91%;
+  top: 40.41%;
+  height: 1.68%;
+}
+.or {
+  color: #ffffff;
+  text-align: left;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  right: 46.08%;
+  left: 49.76%;
+  width: 4.15%;
+  bottom: 58.46%;
+  top: 40.48%;
+  height: 1.07%;
+}
+.and-i-m-a-student-from {
+  color: #ffffff;
+  text-align: left;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  right: 42.32%;
+  left: 26.8%;
+  width: 30.88%;
+  bottom: 56.66%;
+  top: 41.48%;
+  height: 1.86%;
+}
+.bsit {
+  color: #ff0000;
+  text-align: left;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  right: 56.97%;
+  left: 36.13%;
+  width: 6.9%;
+  bottom: 57.51%;
+  top: 41.48%;
+  height: 1.01%;
+}
+.dalubhasaan-ng-lungsod-ng-lucena {
+  color: #ff0000;
+  text-align: left;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  right: 34.8%;
+  left: 26.8%;
+  width: 38.4%;
+  bottom: 55.96%;
+  top: 42.61%;
+  height: 1.43%;
+}
+.home2 {
+  color: #000000;
+  text-align: left;
+  font-family: "InknutAntiqua-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  right: 50.55%;
+  left: 42.95%;
+  width: 6.5%;
+  bottom: 32.19%;
+  top: 63.4%;
+  height: 4.42%;
+}
+.about-me2 {
+  color: #000000;
+  text-align: left;
+  font-family: "InknutAntiqua-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  right: 34.8%;
+  left: 53.84%;
+  width: 11.36%;
+  bottom: 31.36%;
+  top: 63.4%;
+  height: 5.24%;
+}
+.works3 {
+  color: #ff0000;
+  text-align: left;
+  font-family: "InknutAntiqua-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  right: 16.69%;
+  left: 71.79%;
+  width: 11.52%;
+  bottom: 31.48%;
+  top: 63.4%;
+  height: 5.12%;
+}
+.contacts3 {
+  color: #000000;
+  text-align: left;
+  font-family: "InknutAntiqua-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  right: 0%;
+  left: 88.48%;
+  width: 11.52%;
+  bottom: 31.48%;
+  top: 63.4%;
+  height: 5.12%;
+}
+.home3 {
+  color: #000000;
+  text-align: left;
+  font-family: "InknutAntiqua-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  right: 54.78%;
+  left: 38.71%;
+  width: 6.5%;
+  bottom: 0.82%;
+  top: 94.76%;
+  height: 4.42%;
+}
+.about-me3 {
+  color: #000000;
+  text-align: left;
+  font-family: "InknutAntiqua-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  right: 39.03%;
+  left: 49.61%;
+  width: 11.36%;
+  bottom: 0%;
+  top: 94.76%;
+  height: 5.24%;
+}
+.works4 {
+  color: #000000;
+  text-align: left;
+  font-family: "InknutAntiqua-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  right: 20.92%;
+  left: 67.55%;
+  width: 11.52%;
+  bottom: 0.12%;
+  top: 94.76%;
+  height: 5.12%;
+}
+.contacts4 {
+  color: #ff0000;
+  text-align: left;
+  font-family: "InknutAntiqua-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  right: 4.23%;
+  left: 84.25%;
+  width: 11.52%;
+  bottom: 0.12%;
+  top: 94.76%;
+  height: 5.12%;
+}
+.rectangle-6 {
+  position: absolute;
+  right: 57.05%;
+  left: 2.74%;
+  width: 40.2%;
+  bottom: 24.99%;
+  top: 64.68%;
+  height: 10.33%;
+  object-fit: cover;
+}
+.rectangle-7 {
+  position: absolute;
+  right: 57.05%;
+  left: 2.74%;
+  width: 40.2%;
+  bottom: 11.19%;
+  top: 78.48%;
+  height: 10.33%;
+  object-fit: cover;
+}
+.rectangle-8 {
+  position: absolute;
+  right: 2.35%;
+  left: 57.45%;
+  width: 40.2%;
+  bottom: 11.19%;
+  top: 78.48%;
+  height: 10.33%;
+  object-fit: cover;
+}
+.rectangle-9 {
+  position: absolute;
+  right: 2.35%;
+  left: 57.45%;
+  width: 40.2%;
+  bottom: 24.99%;
+  top: 64.68%;
+  height: 10.33%;
+  object-fit: cover;
+}
+.works5 {
+  color: #ff0000;
+  text-align: center;
+  font-family: "InknutAntiqua-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  right: 31.27%;
+  left: 34.87%;
+  width: 33.86%;
+  bottom: 22.55%;
+  top: 73.51%;
+  height: 3.93%;
+}
+.group-8 {
+  position: absolute;
+  right: 74.14%;
+  left: 1.49%;
+  width: 24.37%;
+  bottom: 78.21%;
+  top: 19.6%;
+  height: 2.19%;
+}
+.group-82 {
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.group-8-default {
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.group-4 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-1 {
+  background: #ff0000;
+  border-radius: 15px;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.download-cv {
+  position: absolute;
+  right: 1.93%;
+  left: 6.75%;
+  width: 91.32%;
+  bottom: 9.72%;
+  top: 16.67%;
+  height: 73.61%;
+}
+.download-cv2 {
+  color: #000000;
+  text-align: left;
+  font-family: "IstokWeb-Bold", sans-serif;
+  font-size: 35px;
+  font-weight: 700;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.hello-i-am {
+  color: #000000;
+  text-align: left;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 50px;
+  font-weight: 400;
+  position: absolute;
+  right: 76.1%;
+  left: 0.55%;
+  width: 23.35%;
+  bottom: 85.86%;
+  top: 4.88%;
+  height: 9.27%;
+}
+.about-me4 {
+  color: #000000;
+  text-align: left;
+  font-family: "InknutAntiqua-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  right: 35.19%;
+  left: 53.45%;
+  width: 11.36%;
+  bottom: 94.76%;
+  top: 0%;
+  height: 5.24%;
+}
+.received-636500015166226-1 {
+  position: absolute;
+  right: 9.87%;
+  left: 50.24%;
+  width: 39.89%;
+  bottom: 77.66%;
+  top: 3.32%;
+  height: 19.02%;
+  object-fit: cover;
+}
+.home4 {
+  color: #000000;
+  text-align: left;
+  font-family: "InknutAntiqua-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  right: 46.94%;
+  left: 39.81%;
+  width: 13.24%;
+  bottom: 68.94%;
+  top: 29.32%;
+  height: 1.74%;
+}
+
+/* variant styles */
